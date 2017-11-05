@@ -1,0 +1,4 @@
+C++/.metadata/* linguist-vendored=true
+
+*.m linguist-language=MATLAB
+*.cpp linguist-language=C++
